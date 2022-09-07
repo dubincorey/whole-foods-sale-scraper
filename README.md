@@ -23,10 +23,10 @@ This notebook requires that you store your zip code in an `env` file as somethin
 ZIP = 12345
 ```
 
-You'll need a multitude of Python libraries including
+# Important Links & Docs
 
-- Pandas
-- BeautifulSoup
-- Selenium
-- Dotevnv
-- re
+Some of these links may be helpful
+
+- [Pandas](https://pandas.pydata.org/)
+- [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
